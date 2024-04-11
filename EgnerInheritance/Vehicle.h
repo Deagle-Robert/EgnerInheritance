@@ -72,6 +72,5 @@ public:
 	}
 private:
 	int towingCapicty;
-	int cow;
 };
 
