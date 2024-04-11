@@ -70,9 +70,8 @@ public:
 	int getTowingCapicty() {
 		return towingCapicty;
 	}
-
 private:
 	int towingCapicty;
-
+	int cow;
 };
 
