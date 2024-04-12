@@ -1,11 +1,9 @@
 #include <string>
 #include <iostream>
 #include "Truck.h"
-#include "car.h"
-#include "Vehicle.h"
 using namespace std;
-Vehicle vehicle;
+Truck truck;
 int main() {
-	vehicle.displayInfo();
+	truck.displayInfo();
 	return 0;
 }
